@@ -1,8 +1,3 @@
-📌 **File:** `sensor-dashboard/README.md`
-
----
-
-```md
 # Sensor Dashboard (React + Recharts)
 
 This is a simple **Sensor Data Visualization Dashboard** built using **React** and **Recharts**.
@@ -136,4 +131,12 @@ It demonstrates:
 * Save dashboard layout using URL parameters
 * Authentication support
 
+---
+
+## Author
+
+**Kavita**
+GitHub: [https://github.com/kavitaprj2006](https://github.com/kavitaprj2006)
+
+```
 
